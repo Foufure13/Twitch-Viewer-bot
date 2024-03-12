@@ -2,12 +2,6 @@
 
 This is a Python script for generating Twitch views using proxies. It is implemented as a GUI application with the help of the tkinter module.
 
-## My patreon to support me or buy me a coffe
-
-> :warning: Buy me a [coffee](https://www.buymeacoffee.com/hibobo)✓.
-
-[My Patreon](https://www.patreon.com/HIBO)
-
 ## Requirements
 
 * Python 3.x
@@ -89,7 +83,6 @@ The `main()` function creates an instance of the `ViewerBotGUI` class and starts
 ![](images/selectproxy.PNG) ![](images/interface.PNG)
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Warning 
 
