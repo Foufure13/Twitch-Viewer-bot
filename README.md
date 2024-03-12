@@ -23,7 +23,13 @@ This is a Python script for generating Twitch views using proxies. It is impleme
     ```
 2. Once the folder installation is complete, navigate into the folder.
 
+
 3. Set up an pip environment
+
+
+> **Warning**
+> You need Python installed. If you don't have it, you can download it from [here](https://www.python.org/downloads/)
+
 
 ```shell
 python3 -m venv env
@@ -42,14 +48,7 @@ pip install -r requirements.txt
 
 ### Windows
 
-go to the `install` folder
-
-run the script `install_requirement.bat` or `install_requirement.py`
-
-
-
-> **Warning**
-> You need Python installed. If you don't have it, you can download it from [here](https://www.python.org/downloads/)
+ Navigate into `install` folder and run the script `install_requirement.bat` or `install_requirement.py`
 
 4. Run ``main.bat`` or ``main_just_terminal.bat`` if you prefer a command-line interface and better performance (the terminal version currently uses HTTP scraped proxies).
 
