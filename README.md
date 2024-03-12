@@ -32,15 +32,23 @@ This is a Python script for generating Twitch views using proxies. It is impleme
 
 ## Usage
 
-# test1
-## test2
-### test3
+### Linux
 
 1. Install the requirements:
 
 ```shell
 python3 -m venv env
 source env\Scripts\activate
+
+cd isntall
+pip install -r requirements.txt
+```
+
+### Windows
+
+```shell
+python3 -m venv env
+env\Scripts\activate
 
 cd isntall
 pip install -r requirements.txt
