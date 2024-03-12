@@ -46,10 +46,7 @@ pip install -r requirements.txt
 
 ### Windows
 
-go to the "install" folder
-run the file "install_requirement.bat"
-
-
+go to the `install` folder and run the script `install_requirement.bat`
 
 2. Run the script:
 
@@ -84,6 +81,8 @@ py -3 script.py -threads nb_threads -twitchname example_channel
 4. Click the "Start bot" button to start the script.
 ![](images/6.jpeg) --> ![](images/142.jpeg)
 
+## Compiler
+
 ## Code Overview
 
 The script starts by importing the required modules and setting up global variables.
@@ -100,7 +99,6 @@ The `main()` function creates an instance of the `ViewerBotGUI` class and starts
 
 ## Author
 This project was developed by [Foufure13](https://github.com/Foufure13).
-
 
 ## Warning 
 
