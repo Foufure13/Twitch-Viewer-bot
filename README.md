@@ -40,19 +40,13 @@ This is a Python script for generating Twitch views using proxies. It is impleme
 python3 -m venv env
 source env\Scripts\activate
 
-cd isntall
+cd install
 pip install -r requirements.txt
 ```
 
 ### Windows
 
-```shell
-python3 -m venv env
-env\Scripts\activate
 
-cd isntall
-pip install -r requirements.txt
-```
 
 2. Run the script:
 
@@ -100,6 +94,9 @@ The `main()` function creates an instance of the `ViewerBotGUI` class and starts
 ## Interface
 ![](images/selectproxy.PNG) ![](images/interface.PNG)
 ## License
+
+## Author
+This project was developed by [Foufure13](https://github.com/Foufure13).
 
 
 ## Warning 
