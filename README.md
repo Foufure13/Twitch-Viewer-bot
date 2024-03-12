@@ -1,6 +1,6 @@
 
 # Twitch Viewer Bot
-This project is an extension of the ABC project, available at : https://github.com/H1B0B0/twitch-Viewerbot.git 
+This project is an extension of the Twitch-ViewerBot project, available at : https://github.com/H1B0B0/twitch-Viewerbot.git 
 
 This is a Python script for generating Twitch views using proxies. It is implemented as a GUI application with the help of the tkinter module.
 
@@ -32,10 +32,18 @@ This is a Python script for generating Twitch views using proxies. It is impleme
 
 ## Usage
 
+# test1
+## test2
+### test3
+
 1. Install the requirements:
 
 ```shell
-pip install .
+python3 -m venv env
+source env\Scripts\activate
+
+cd isntall
+pip install -r requirements.txt
 ```
 
 2. Run the script:
