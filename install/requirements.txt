@@ -3,3 +3,5 @@ requests
 streamlink
 fake_useragent
 rich
+pydub 
+ffmpeg

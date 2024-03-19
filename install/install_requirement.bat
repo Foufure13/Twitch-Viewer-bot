@@ -1,5 +1,5 @@
 @echo off
-echo Installation des dépendances Python...
+echo Installing Python dependencies...
 pip install customtkinter requests streamlink fake_useragent rich
-echo Installation terminée.
+echo Install done.
 pause
